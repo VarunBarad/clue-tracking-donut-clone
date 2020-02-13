@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clue Tracking Donut Clone</string>
+
+    <string name="label_lastCycle">Last 4-week cycle</string>
+    <string name="label_period">The Period</string>
+    <string name="label_fertileWindow">Fertile Window</string>
+    <string name="label_pms">PMS</string>
+</resources>

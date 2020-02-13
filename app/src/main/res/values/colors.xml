@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="donut_baseline">#CFD8DE</color>
+    <color name="donut_period">#E43939</color>
+    <color name="donut_fertile">#00819B</color>
+    <color name="donut_day">#8BA52C</color>
+    <color name="donut_pms">#FF6500</color>
+    <color name="donut_textInverted">#EEEEEE</color>
+    <color name="donut_text">#111111</color>
+</resources>
