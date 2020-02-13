@@ -2,7 +2,7 @@
 
 I created this to learn/practice making custom-views on Android. I created a clone of the cycle-tracking donut chart that [Clue](https://helloclue.com/) shows in their app.
 
-__Debug APK:__ [https://raw.githubusercontent.com/VarunBarad/clue-tracking-donut-cline/master/Clue%20Tracking%20Donut%20Clone.apk](https://raw.githubusercontent.com/VarunBarad/clue-tracking-donut-cline/master/Clue%20Tracking%20Donut%20Clone.apk)
+__[Debug APK](https://raw.githubusercontent.com/VarunBarad/clue-tracking-donut-clone/master/Clue%20Tracking%20Donut%20Clone.apk)__
 
 ## Clue App Screenshot
 
